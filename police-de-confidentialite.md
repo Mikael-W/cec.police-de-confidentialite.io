@@ -1,5 +1,5 @@
 POLITIQUE DE CONFIDENTIALITÉ
-----------------------------
+============================
 
 ## DONNÉES PERSONNELLES
 
