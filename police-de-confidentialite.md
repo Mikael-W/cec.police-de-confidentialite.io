@@ -1,7 +1,7 @@
 POLITIQUE DE CONFIDENTIALITÉ
 ----------------------------
 
-###DONNÉES PERSONNELLES
+## DONNÉES PERSONNELLES
 
 Définitions
 L'Éditeur : Mikaël Wawrziczny.
