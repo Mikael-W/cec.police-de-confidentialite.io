@@ -1,24 +1,27 @@
-#POLITIQUE DE CONFIDENTIALITÉ
-##DONNÉES PERSONNELLES
+POLITIQUE DE CONFIDENTIALITÉ
+----------------------------
+
+###DONNÉES PERSONNELLES
+
 Définitions
 L'Éditeur : Mikaël Wawrziczny.
 L'application : Chasse en cours.
 L'Utilisateur : La personne utilisant le Site et les services.
 
-##1- Nature des données collectées
+### 1- Nature des données collectées
 
 Dans le cadre de l'utilisation de l'application, l'Éditeur est susceptible de collecter les catégories
 de données suivantes concernant ses Utilisateurs :
 Données de localisation (déplacements, données GPS, GSM...
 
-##2- Communication des données personnelles à des tiers
+### 2- Communication des données personnelles à des tiers
 
 Pas de communication à des tiers
 Vos données ne font l'objet d'aucune communication à des tiers. Vous êtes toutefois informés
 qu'elles pourront être divulguées en application d'une loi, d'un règlement ou en vertu d'une
 décision d'une autorité réglementaire ou judiciaire compétente.
 
-##3- Information préalable pour la communication desdonnées personnelles à des tiers en cas de fusion / absorption
+### 3- Information préalable pour la communication desdonnées personnelles à des tiers en cas de fusion / absorption
 
 Information préalable et possibilité d’opt-out avant et après la fusion / acquisition
 Dans le cas où nous prendrions part à une opération de fusion, d’acquisition ou à toute autre
@@ -26,7 +29,7 @@ forme de cession d’actifs, nous nous engageons à garantir la confidentialité
 personnelles et à vous informer avant que celles-ci ne soient transférées ou soumises à de
 nouvelles règles de confidentialité.
 
-##4- Agrégation des données
+### 4- Agrégation des données
 
 Agrégation avec des données non personnelles
 Nous pouvons publier, divulguer et utiliser les informations agrégées (informations relatives à
@@ -43,7 +46,7 @@ autre information dont vous avez autorisé la divulgation. Nous pouvons agréger
 relatives à tous nos autres Utilisateurs, groupes, comptes, aux données personnelles disponibles
 sur l’Utilisateur.
 
-##5- Collecte des données d'identité
+### 5- Collecte des données d'identité
 
 Consultation libre
 La consultation du Site ne nécessite pas d'inscription ni d'identification préalable. Elle peut
@@ -51,12 +54,12 @@ s'effectuer sans que vous ne communiquiez de données nominatives vous concernan
 prénom, adresse, etc). Nous ne procédons à aucun enregistrement de données nominatives
 pour la simple consultation du Site.
 
-##6- Collecte des données d'identification
+### 6- Collecte des données d'identification
 
 Utilisation de l'identifiant de l’utilisateur uniquement pour l’accès aux services
 Nous utilisons vos identifiants électroniques seulement pour et pendant l'exécution du contrat.
 
-##7- Géolocalisation
+### 7- Géolocalisation
 
 Géolocalisation à des fins de fourniture du service
 Nous collectons et traitons vos données de géolocalisation afin de vous fournir nos services.
@@ -80,13 +83,13 @@ prévu par la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fic
 vous avez la possibilité, à tout moment, de désactiver les fonctions relatives à la
 géolocalisation.
 
-##8- Collecte des données du terminal
+### 8- Collecte des données du terminal
 
 Aucune collecte des données techniques
 Nous ne collectons et ne conservons aucune donnée technique de votre appareil (adresse IP,
 fournisseur d'accès à Internet...).
 
-##9- Cookies
+### 9- Cookies
 
 Durée de conservation des cookies
 Conformément aux recommandations de la CNIL, la durée maximale de conservation des
@@ -108,13 +111,13 @@ Vous reconnaissez avoir été informé que l'Éditeur peut avoir recours à des 
 souhaitez pas que des cookies soient utilisés sur votre terminal, la plupart des navigateurs vous
 permettent de désactiver les cookies en passant par les options de réglage.
 
-##10- Conservation des données techniques
+### 10- Conservation des données techniques
 
 Durée de conservation des données techniques
 Les données techniques sont conservées pour la durée strictement nécessaire à la réalisation
 des finalités visées ci-avant.
 
-##11- Délai de conservation des données
+### 11- Délai de conservation des données
 
 personnelles et d'anonymisation
 Conservation des données pendant la durée de la relation contractuelle
@@ -141,7 +144,7 @@ période de trois ans, vous recevrez un e-mail vous invitant à vous connecter d
 délais, sans quoi vos données seront supprimées de nos bases de données.
 
 
-##12- Suppression du compte
+### 12- Suppression du compte
 
 Suppression du compte à la demande
 L'Utilisateur a la possibilité de supprimer son Compte à tout moment, par simple demande à
@@ -153,7 +156,7 @@ autre document incorporé aux présentes par référence, l'Éditeur se réserve
 ou restreindre sans aucun avertissement préalable et à sa seule discrétion, votre usage et accès
 aux services, à votre compte et à tous les Sites.
  
-##13- Indications en cas de faille de sécurité décelée par l'Éditeur
+### 13- Indications en cas de faille de sécurité décelée par l'Éditeur
 
 Information de l'Utilisateur en cas de faille de sécurité
 Nous nous engageons à mettre en oeuvre toutes les mesures techniques et organisationnelles
@@ -172,7 +175,7 @@ En aucun cas les engagements définis au point ci-dessus relatifs à la notifica
 de sécurité ne peuvent être assimilés à une quelconque reconnaissance de faute ou de
 responsabilité quant à la survenance de l'incident en question.
 
-##14- Transfert des données personnelles à l'étranger
+### 14- Transfert des données personnelles à l'étranger
 
 Pas de transfert en dehors de l'Union européenne
 L'Éditeur s'engage à ne pas transférer les données personnelles de ses Utilisateurs en dehors
@@ -180,7 +183,7 @@ de l'Union européenne.
 
 [Lien](https://www.cnil.fr/fr/la-protection-des-donnees-dans-le-mondehttps://www.cnil.fr/fr/la-protectiondes-donnees-dans-le-monde)
 
-##15- Modification de la politique de confidentialité
+### 15- Modification de la politique de confidentialité
 En cas de modification de la présente Politique de Confidentialité, engagement de ne pas
 baisser le niveau de confidentialité de manière substantielle sans l'information préalable 
 des personnes concernées
@@ -188,7 +191,7 @@ Nous nous engageons à vous informer en cas de modification substantielle de la 
 Politique de Confidentialité, et à ne pas baisser le niveau de confidentialité de vos données de
 manière substantielle sans vous en informer et obtenir votre consentement.
 
-##16- Droit applicable et modalités de recours
+### 16- Droit applicable et modalités de recours
 
 Clause d'arbitrage
 Vous acceptez expressément que tout litige susceptible de naître du fait de la présente Politique
@@ -196,6 +199,6 @@ de Confidentialité, notamment de son interprétation ou de son exécution, rel�
 procédure d'arbitrage soumise au règlement de la plateforme d'arbitrage choisie d'un commun
 accord, auquel vous adhérerez sans réserve.
 
-##- Contact
+### 17- Contacte
 Si vous avez une question concernant notre police de confidentialitée vous pouvez nous contacter via : 
 contact.chasseencours@gmail.com
